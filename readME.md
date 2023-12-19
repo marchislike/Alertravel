@@ -112,78 +112,57 @@
 
 ### ✔ 회원관리 서비스
 #### 📍회원가입
-대상 : 일반회원, 점주회원
-이메일, 비밀번호, 비밀번호 확인, 이름, 거주지, 전화번호, 회원유형 입력
-#### 📍회원 탈퇴
-대상 : 일반회원, 점주회원
-비밀번호 입력을 통한 본인 확인 후 회원 탈퇴 가능
+대상 : 일반회원
+아이디, 비밀번호, 비밀번호 확인, 이메일 입력
 #### 📍회원정보 수정
-대상 : 일반회원, 점주회원
-비밀번호 인증 후 개인 정보 수정 가능 -> 이메일, 회원유형 수정 불가
+대상 : 일반회원
+마이페이지에서 비밀번호 수정 가능 -> 이메일, 회원유형 수정 불가
 #### 📍마이페이지
-대상 : 일반회원, 점주회원
-기존에 입력했던 정보 확인과 수정 가능
+대상 : 일반회원
+기존에 입력했던 아이디, 이메일, 가입일, 수정일을 확인. 비밀번호 변경 기능
 #### 📍로그인/로그아웃
-대상 : 일반회원, 점주회원
-기존에 가입했던 이메일과 비밀번호를 통해 로그인
-#### 📍비밀번호 찾기
-대상 : 일반회원, 점주회원
-이메일로 임시 비밀번호 발급받기
-<img src="프로젝트_산출물/readmeImage/회원관리클래스.png" style="width: 100%" alt="no pic">
-
----
-
-### ✔ 위치기반 검색 서비스
-#### 📍검색 기준위치 변경
 대상 : 일반회원
-사용자가 검색 기준을 변경하여 해당 위치에 대한 매장 검색 가능
-##### 📍카테고리별 지도보기
-대상 : 일반회원
-매장 카테고리별로 원하는 카테고리 선택후 매장 검색 가능
-<img src="프로젝트_산출물/readmeImage/위치기반검색클래스.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/위치기반시퀀스.png" style="width: 100%" alt="no pic">
+기존에 가입했던 이메일과 비밀번호를 통해 로그인, 카카오 소셜 로그인
 
----
+#### 로그인 페이지
+<img src="최종산출물/readmeimage/카카오로그인.gif" style="width: 100%" alt="no pic" loop=infinite>
 
-### ✔ 매장 서비스 (점주/일반)
-<img src="프로젝트_산출물/readmeImage/매장서비스.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/매장관리기능1.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/매장관리기능2.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/매장관리클래스.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/매장검색시퀀스.png" style="width: 100%" alt="no pic">
+### ✔ 지도 서비스
+#### 📍단계별 여행경보
+대상 : 사이트를 이용하는 모든 사용자
+지도를 통해 각 나라면 단계별 여행경보를 확인
+#### 📍상세보기 페이지
+대상 : 사이트를 이용하는 모든 사용자
+지도의 국가명 클릭시 국가별 정보(지도,기본정보,현지연락처)를 확인
 
----
+#### 지도 구현 화면
+<img src="최종산출물/readmeimage/지도구현동영상.gif" style="width: 100%" alt="no pic">
 
-### ✔ 메뉴 서비스 (점주/일반)
-<img src="프로젝트_산출물/readmeImage/메뉴서비스.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/메뉴관리기능1.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/메뉴관리기능2.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/메뉴관리기능3.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/메뉴관리클래스.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/메뉴등록시퀀스.png" style="width: 100%" alt="no pic">
 
----
+### ✔ 단계별 여행경보 서비스
+#### 📍단계별 여행경보
+대상 : 사이트를 이용하는 모든 사용자
+페이지에서 버튼을 통해 단계별 여행경보로 분류된 국가들을 확인
+#### 📍상세보기 페이지
+대상 : 사이트를 이용하는 모든 사용자
+목록에 있는 국가명 클릭시 국가별 정보(지도,기본정보,현지연락처)를 확인
 
-### ✔ 장바구니 주문 결제 서비스 (일반)
-<img src="프로젝트_산출물/readmeImage/장바구니주문결제서비스.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/장바구니기능.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/장바구니클래스.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/주문기능.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/주문결제클래스.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/주문관리시퀀스.png" style="width: 100%" alt="no pic">
+### 여행 경보 화면
+<img src="최종산출물/readmeimage/단계별_여행경보_페이지.gif" style="width: 100%" alt="no pic">
 
----
 
-### ✔ 리뷰 / 문의 / 관리자 서비스 
-<img src="프로젝트_산출물/readmeImage/리뷰문의관리자서비스.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/리뷰기능.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/리뷰클래스.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/문의기능1.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/문의기능2.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/문의클래스.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/문의시퀀스.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/관리자기능.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/관리자클래스.png" style="width: 100%" alt="no pic">
+### ✔ 후원 서비스
+#### 📍후원하기 기능
+대상 : 사이트를 이용하는 모든 사용자
+카카오페이, 토스 등과 같은 결제 시스템을 통해 후원
+#### 📍후원내역 확인
+대상 : 사이트를 이용하는 모든 사용자
+이름, 전화번호, 이메일을 입력하여 후원 내역을 확인
+
+### 결제 화면
+<img src="최종산출물/readmeimage/결제기능.gif" style="width: 100%" alt="no pic">
+
+
 
 ---
 
