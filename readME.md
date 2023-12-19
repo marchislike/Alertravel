@@ -13,14 +13,14 @@
 
 ---
 
-## 개발 팀 정보
+## 역할 분담
 - 팀명 : Da-win
-> **전승민 (PL)** : 여행 경보 페이지 구현, 여행 경보 DB 설계, 회원 관리 기능 구현([@HermitCrapOfLine](https://github.com/HermitCrapOfLine))<br>
+> **전승민 (PL)** : 여행 경보 페이지 구현, 여행 경보 DB 설계, 회원 관리 기능 구현, 프로젝트 총괄, 디버깅, 발표([@HermitCrapOfLine](https://github.com/HermitCrapOfLine))<br>
 > **김재원** : 후원하기 페이지 구현, 후원관련 DB 설계, 결제 기능 구현([@rekjeawon88](https://github.com/rekjeawon88))<br>
 > **박예경** : 네비게이션 바 디자인, 디자인 자료 조사<br>
-> **안남기** : 공지사항 페이지 구현, 공지사항 DB 설계, 환율 기능 구현([@namgi00](https://github.com/namgi00))<br>
-> **장지호** : 국가별 정보 DB 관리, ERD 기획 및 관리<br>
-> **하지현** : 메인 화면 지도 구현, 소통게시판 구현, 소통게시판 DB 설계([@marchislike](https://github.com/marchislike))<br>
+> **안남기** : 공지사항 페이지 구현, 공지사항 DB 설계, 환율 기능 구현, 발표자료 제작([@namgi00](https://github.com/namgi00))<br>
+> **장지호** : ERD 기획 및 관리<br>
+> **하지현** : 메인 화면 지도 구현, 소통게시판 구현 및 DB 설계, 국가별 기본정보·현지연락처 화면 구현 및 DB 설계([@marchislike](https://github.com/marchislike))<br>
 
 
 <img src="readmeImage/팀원소개.png" style="width: 100%" alt="no pic">
