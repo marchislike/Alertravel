@@ -125,7 +125,7 @@
 기존에 가입했던 이메일과 비밀번호를 통해 로그인, 카카오 소셜 로그인
 
 #### 로그인 페이지
-<img src="readmeimage/카카오로그인.gif" style="width: 100%" alt="no pic" loop=infinite>
+<img src="readmeImage/카카오로그인.gif" style="width: 100%" alt="no pic" loop=infinite>
 
 ### ✔ 지도 서비스
 #### 📍단계별 여행경보
@@ -136,7 +136,7 @@
 지도의 국가명 클릭시 국가별 정보(지도,기본정보,현지연락처)를 확인
 
 #### 지도 구현 화면
-<img src="readmeimage/지도구현동영상.gif" style="width: 100%" alt="no pic">
+<img src="readmeImage/지도구현동영상.gif" style="width: 100%" alt="no pic">
 
 
 ### ✔ 단계별 여행경보 서비스
@@ -148,7 +148,7 @@
 목록에 있는 국가명 클릭시 국가별 정보(지도,기본정보,현지연락처)를 확인
 
 ### 여행 경보 화면
-<img src="readmeimage/단계별_여행경보_페이지.gif" style="width: 100%" alt="no pic">
+<img src="readmeImage/단계별_여행경보_페이지.gif" style="width: 100%" alt="no pic">
 
 
 ### ✔ 후원 서비스
@@ -160,7 +160,7 @@
 이름, 전화번호, 이메일을 입력하여 후원 내역을 확인
 
 ### 결제 화면
-<img src="readmeimage/결제기능.gif" style="width: 100%" alt="no pic">
+<img src="readmeImage/결제기능.gif" style="width: 100%" alt="no pic">
 
 
 
