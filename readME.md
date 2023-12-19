@@ -1,10 +1,10 @@
 # Alertravel
 
-#### 1인가구를 위한 마감음식 패키징 서비스
+#### 세계의 여행경보 확인 및 실제 여행경험을 나누는 커뮤니티
 
-1인의 만찬은 자영업자와 1인 가우 소비자들을 위한 마감 음식 패키징 서비스입니다.
+Alertravel은 해외여행자들이 안전한 여행을 할 수 있도록 여행경보 정보를 제공받고 여행경험을 공유할 수 있는 서비스입니다.
 
-(메인 이미지)
+<img src="readmeImage/메인로고.png" style="width: 100%" alt="no pic">
 
 ---
 
@@ -12,9 +12,8 @@
 - 팀명 : Da-win
 - 팀장 : 전승민([@HermitCrapOfLine](https://github.com/HermitCrapOfLine))
 - 팀원 : 김재원, 박예경, 안남기, 장지호, 하지현
-  ..
 
-  (팀원이미지)
+
 <img src="readmeImage/팀원소개.png" style="width: 100%" alt="no pic">
   
 
