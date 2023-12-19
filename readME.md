@@ -43,9 +43,8 @@
 <summary>서비스 설계</summary>
 
 [서비스 설계](#2)<br/>
-    [1. 회원 이용 흐름](#2.1)<br/>
-    [2. 설계 산출물](#2.2)<br/>
-    [3. 서비스 별 기능](#2.3)
+    [1. 설계 산출물](#2.1)<br/>
+    [2. 서비스 별 기능](#2.2)
 </details>
 
 ---
@@ -87,6 +86,7 @@
 ## 3. 프로젝트 진행 일정
 <img src="readmeImage/WBS.png" style="width: 100%" alt="no pic">
 
+### api 명세 & Figma
 📝 [팀 노션](https://www.notion.so/a74afdd37147457cbea7665aa78032c4?v=ab7196d807424347990406a26bf8d8b7)
 
 
@@ -95,20 +95,18 @@
 <span id="2"></span>
 ## 서비스 설계
 
+
+
 <span id="2.1"></span>
-## 1. 회원 이용 흐름
-
-
-<span id="2.2"></span>
-## 2. 설계 산출물
+## 1. 설계 산출물
 ### E-R Diagram
 <img src="readmeImage/회원DB.png" style="width: 100%" alt="no pic">
 <img src="readmeImage/여행경보DB.png" style="width: 100%" alt="no pic">
 <img src="readmeImage/후원DB.png" style="width: 100%" alt="no pic">
 
 
-<span id="2.3"></span>
-## 3. 서비스별 기능
+<span id="2.2"></span>
+## 2. 서비스별 기능
 
 ### ✔ 회원관리 서비스
 #### 📍회원가입
