@@ -102,13 +102,10 @@
 <span id="2.2"></span>
 ## 2. 설계 산출물
 ### E-R Diagram
-<img src="프로젝트_산출물/readmeImage/ER_다이어그램.png" style="width: 100%" alt="no pic">
+<img src="readmeImage/회원DB.png" style="width: 100%" alt="no pic">
+<img src="readmeImage/여행경보DB.png" style="width: 100%" alt="no pic">
+<img src="readmeImage/후원DBDB.png" style="width: 100%" alt="no pic">
 
-### 논리 스키마
-<img src="프로젝트_산출물/readmeImage/DB스키마.png" style="width: 100%" alt="no pic">
-
-### Class Diagram
-<img src="프로젝트_산출물/readmeImage/전체클래스다이어그램.png" style="width: 100%" alt="no pic">
 
 <span id="2.3"></span>
 ## 3. 서비스별 기능
