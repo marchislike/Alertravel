@@ -44,15 +44,16 @@ Alertravel은 해외여행자들이 안전한 여행을 할 수 있도록 여행
 
 <span id="1"></span>
 ## 프로젝트개요
-<img src="프로젝트_산출물/readmeImage/프로그램소개.png" style="width: 100%" alt="no pic">
+<img src="readmeImage/프로젝트개요.png" style="width: 100%" alt="no pic">
 
 <span id="1.1"></span>
 ## 1. 주제 선정 동기
-<img src="프로젝트_산출물/readmeImage/주제선정동기1.png" style="width: 100%" alt="no pic">
-<img src="프로젝트_산출물/readmeImage/주제선정동기2.png" style="width: 100%" alt="no pic">
+💡 해외여행경보와 여행후기를 한눈에 볼 수 있는 사이트의 필요성
+💡 여행후기로는 위험 지역을 포함하여 생생한 경험을 나누고 안전에 대한 경각심을 제고
 
 ### 벤치 마킹 사이트의 한계점
-<img src="프로젝트_산출물/readmeImage/벤치마킹사이트.png" style="width: 100%" alt="no pic">
+<img src="readmeImage/벤치마킹사이트.png" style="width: 100%" alt="no pic">
+여행경보에 대한 다양한 내용은 있지만 공공기관 사이트 특성상 민원접수를 제외하면 단방향 소통에 그침
 
 
 <span id="1.3"></span>
@@ -61,7 +62,7 @@ Alertravel은 해외여행자들이 안전한 여행을 할 수 있도록 여행
 
 <span id="1.4"></span>
 ## 3. 프로젝트 진행 일정
-<img src="프로젝트_산출물/readmeImage/프로젝트일정.png" style="width: 100%" alt="no pic">
+📝 [팀 노션-WBS](https://pinnate-whimsey-d2c.notion.site/b4cb15aad252413c9cad64877dba3719)
 
 
 ---
