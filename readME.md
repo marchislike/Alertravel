@@ -53,7 +53,6 @@
 
 <span id="1"></span>
 ## 프로젝트개요
-<img src="readmeImage/프로젝트개요.png" style="width: 100%" alt="no pic">
 
 <span id="1.1"></span>
 ## 1. 주제 선정 동기
