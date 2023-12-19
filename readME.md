@@ -9,12 +9,14 @@
 ---
 
 ## 개발 팀 정보
-- 팀명 : Dinner41
-- 팀장 : 김주성([@KINGJUSUNG](https://github.com/KINGJUSUNG))
-- 부팀장 : 송무송([@moosongsong](https://github.com/moosongsong))
-- 팀원 : 문효원([@moon-hw](https://github.com/moon-hw)), 안희주([@ahjheeju129](https://github.com/ahjheeju129)), 조계철([@gyetol](https://github.com/gyetol))
+- 팀명 : Da-win
+- 팀장 : 전승민([@HermitCrapOfLine](https://github.com/HermitCrapOfLine))
+- 팀원 : 김재원, 박예경, 안남기, 장지호, 하지현
+  ..
 
   (팀원이미지)
+<img src="프로젝트_산출물/readmeImage/팀원소개.png" style="width: 100%" alt="no pic">
+  
 
   ---
 
