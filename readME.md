@@ -59,7 +59,7 @@ Alertravel은 해외여행자들이 안전한 여행을 할 수 있도록 여행
 
 <span id="1.3"></span>
 ## 2. 개발 환경 및 사용 기술
-<img src="프로젝트_산출물/readmeImage/개발환경.png" style="width: 100%" alt="no pic">
+<img src="readmeImage/개발환경.png" style="width: 100%" alt="no pic">
 
 <span id="1.4"></span>
 ## 3. 프로젝트 진행 일정
