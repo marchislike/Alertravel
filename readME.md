@@ -86,9 +86,9 @@
 ## 3. 프로젝트 진행 일정
 <img src="readmeImage/WBS.png" style="width: 100%" alt="no pic">
 
-### api 명세 & Figma
-📝 [팀 노션](https://www.notion.so/a74afdd37147457cbea7665aa78032c4?v=ab7196d807424347990406a26bf8d8b7)
 
+### 📝 [팀 노션](https://www.notion.so/a74afdd37147457cbea7665aa78032c4?v=ab7196d807424347990406a26bf8d8b7)
+### 🗄️ [api 명세 & Figma](https://www.notion.so/API-Figma-a5d5995e9be9485996d1baf017b65226)
 
 ---
 
