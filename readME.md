@@ -1,6 +1,5 @@
 # Alertravel
 
-# 1인의 만찬
 #### 1인가구를 위한 마감음식 패키징 서비스
 
 1인의 만찬은 자영업자와 1인 가우 소비자들을 위한 마감 음식 패키징 서비스입니다.
@@ -71,11 +70,7 @@
 
 <span id="2.1"></span>
 ## 1. 회원 이용 흐름
-### 일반회원
-<img src="프로젝트_산출물/readmeImage/일반회원흐름.png" style="width: 100%" alt="no pic">
 
-### 점주회원
-<img src="프로젝트_산출물/readmeImage/점주회원.png" style="width: 100%" alt="no pic">
 
 <span id="2.2"></span>
 ## 2. 설계 산출물
