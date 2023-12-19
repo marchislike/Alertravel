@@ -104,7 +104,7 @@
 ### E-R Diagram
 <img src="readmeImage/회원DB.png" style="width: 100%" alt="no pic">
 <img src="readmeImage/여행경보DB.png" style="width: 100%" alt="no pic">
-<img src="readmeImage/후원DBDB.png" style="width: 100%" alt="no pic">
+<img src="readmeImage/후원DB.png" style="width: 100%" alt="no pic">
 
 
 <span id="2.3"></span>
