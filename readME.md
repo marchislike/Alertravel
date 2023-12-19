@@ -15,7 +15,7 @@
   ..
 
   (팀원이미지)
-<img src="프로젝트_산출물/readmeImage/팀원소개.png" style="width: 100%" alt="no pic">
+<img src="readmeImage/팀원소개.png" style="width: 100%" alt="no pic">
   
 
   ---
