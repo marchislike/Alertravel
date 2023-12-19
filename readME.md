@@ -63,7 +63,9 @@ Alertravel은 해외여행자들이 안전한 여행을 할 수 있도록 여행
 
 <span id="1.4"></span>
 ## 3. 프로젝트 진행 일정
-📝 [팀 노션-WBS](https://pinnate-whimsey-d2c.notion.site/b4cb15aad252413c9cad64877dba3719)
+<img src="readmeImage/WBS.png" style="width: 100%" alt="no pic">
+
+📝 [팀 노션](https://www.notion.so/a74afdd37147457cbea7665aa78032c4?v=ab7196d807424347990406a26bf8d8b7)
 
 
 ---
